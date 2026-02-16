@@ -280,7 +280,7 @@ Contributions are welcome! Please:
  
 **Aditya Kadam** - [LinkedIn](https://www.linkedin.com/in/aditya-kadam-268304252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
  
-Project Link: [https://github.com/yourusername/strategic-debate-engine](https://github.com/yourusername/strategic-debate-engine)
+Project Link: (https://github.com/AdityaKadam2902/Strategic-AI-Agent)
  
 ## 🌟 Star History
  

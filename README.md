@@ -276,18 +276,7 @@ Contributions are welcome! Please:
 - [FastAPI](https://fastapi.tiangolo.com/) - Modern Python web framework
 - [React](https://react.dev/) - UI library
  
-## 📧 Contact
- 
-**Aditya Kadam** - [LinkedIn](https://www.linkedin.com/in/aditya-kadam-268304252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
- 
-Project Link: (https://github.com/AdityaKadam2902/Strategic-AI-Agent)
- 
-## 🌟 Star History
- 
-If you find this project useful, please give it a star! ⭐
- 
+
 ---
  
 **Built with Python, FastAPI, LangGraph, and React**
- 
- 
